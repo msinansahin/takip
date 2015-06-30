@@ -1,0 +1,323 @@
+a { text-decoration : none; color : #666666; };
+p {
+    margin:5px;
+}
+.egitim {
+    background-image:url(../icons/folder_wrench.png);
+}
+
+.egitim-big-menu {
+	width: 96px;
+	height: 96px;
+    background-image:url(../images/egitim_big.png);
+}
+
+.event-big-menu {
+	width: 96px;
+	height: 96px;
+    background-image:url(../images/event_big.png);
+}
+
+.gorsel-big-menu {
+	width: 96px;
+	height: 96px;
+    background-image:url(../images/gorsel_big.png);
+}
+
+.gunluk-rapor-big-menu {
+	width: 96px;
+	height: 96px;
+    background-image:url(../images/gunluk_rapor_big.png);
+}
+
+.gunluk-rapor {
+	width: 96px;
+	height: 96px;
+    background-image:url(../icons/gunluk_rapor.png);
+}
+
+.event {
+	background-image:url(../icons/event.png);
+}
+
+.egitmen {
+	background-image:url(../icons/egitmen.png);
+}
+.proje {
+    background-image:url(../icons/project.png);
+}
+
+.kapat {
+    background-image:url(../icons/close.png);
+}
+.yenile {
+    background-image:url(../icons/yenile.png);
+}
+
+.yeni {
+    background-image:url(../icons/add.png);
+}
+
+.ara {
+    background-image:url(../icons/ara.png);
+}
+.nav {
+    background-image:url(../icons/folder_go.png);
+}
+.info {
+    background-image:url(../icons/information.png);
+}
+
+.ky-do {
+    background-image:url(../icons/ky-do.png);
+}
+
+.ky-undo {
+    background-image:url(../icons/ky-undo.png);
+}
+
+.anket-doldur {
+    background-image:url(../icons/ky-do.png);
+    background-repeat: no-repeat;
+    padding-left: 20px;
+}
+
+.grup {
+    background-image:url(../icons/grup.png);
+}
+
+.logout {
+    background-image:url(../icons/logout.png);
+}
+
+.profil {
+    background-image:url(../icons/profil.png);
+}
+
+.profil-big-menu {
+	width: 96px;
+	height: 96px;
+    background-image:url(../images/profil_big.png);
+}
+
+
+.indir {
+    background-image:url(../icons/control_rewind.png);
+}
+
+.anket-big-menu {
+	width: 96px;
+	height: 96px;
+    background-image:url(../images/anket_big.png);
+}
+
+.anket {
+    background-image:url(../icons/anket.png);
+}
+
+.takvim-big-menu {
+	width: 96px;
+	height: 96px;
+    background-image:url(../images/takvim_big.png);
+}
+
+.takvim {
+    background-image:url(../icons/takvim.png);
+}
+
+.grup-big-menu {
+	width: 96px;
+	height: 96px;
+    background-image:url(../images/grup_big.png);
+}
+
+.proje-big-menu {
+	width: 96px;
+	height: 96px;
+    background-image:url(../images/proje_big.png);
+}
+
+.aktif {
+    background-image:url(../icons/accept.gif);
+}
+
+.pasif {
+    background-image:url(../icons/cross.gif);
+}
+
+.cikart {
+    background-image:url(../icons/cikart.png);
+}
+
+
+.katilimci {
+    background-image:url(../icons/user_add.gif);
+}
+
+.kaydet {
+    background-image:url(../icons/kaydet.png);
+}
+
+.temizle {
+    background-image:url(../icons/temizle.png);
+}
+
+.dataview-text {
+	color: black;
+	font-size: 13px;
+	font-family: helvetica,arial,verdana,sans-serif;
+}
+
+.feed-list {
+    padding: 0 3px 0 3px;
+}
+
+.feed-list-item {
+    margin-top: 3px;
+    padding-left: 20px;
+    font-size: 11px;
+    line-height: 20px;
+    cursor: pointer;
+    background: url(../icons/user_add.gif) no-repeat 0 2px;
+    border: 1px solid #fff;
+}
+
+.feed-list .x-item-selected {
+    font-weight: bold; 
+    color: #15428B;
+    background-color: #DFE8F6;
+    border: 1px dotted #A3BAE9;
+}
+
+.feed-list-item-hover {
+    background-color: #eee;
+}
+
+.row-bold {
+	font-weight: bold;
+	background-color: red;
+}
+
+.hidden {
+	display: none;
+}
+
+.isleniyor {
+    background-image:url('../../../extjs/resources/ext-theme-neptune/images/tree/loading.png');
+    background-repeat: no-repeat;
+    background-position: left;	
+    padding-left:20px;
+}
+
+.islem-basarili {
+    background-image:url('../icons/accept.png');
+    background-repeat: no-repeat;
+    background-position: left;	
+    padding-left:20px;
+}
+
+.islem-hatali {
+    background-image:url('../icons/cross.gif');
+    background-repeat: no-repeat;
+    background-position: left;	
+    padding-left:20px;
+}
+
+.centered-kay-form {
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -350px;
+}
+
+.centered-yukleniyor {
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -350px;
+}
+
+.big-menu-text {
+	color: #666;
+	font-weight: bold;
+	font-family: helvetica,arial,verdana,sans-serif;
+}
+
+.parola {
+    background-image:url('../icons/password.png');
+    background-repeat: no-repeat;
+    background-position: left;	
+    padding-left:20px;
+}
+
+.cv-download {
+    background-image:url('../icons/cv.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left:20px;
+}
+
+.dokuman-download {
+    background-image:url('../icons/dokuman.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left:20px;
+}
+
+.required {
+	color: red;
+	font-weight: bold;
+}
+
+.view {
+	color: #666666;
+    font-family: helvetica,arial,verdana,sans-serif;
+    font-weight: bold;
+}
+
+.tt{
+    background-image:url('../icons/tt.png');
+}
+
+.tt-big-menu {
+	width: 96px;
+	height: 96px;
+    background-image:url(../images/tt_big.png);
+}
+
+a.x-simplelink-default,
+a.x-simplelink-default:visited {
+    color:#00e;
+    text-decoration:none;
+}
+
+
+a.x-simplelink-default:hover {
+    text-decoration:underline;
+}
+
+.banner { 
+	background:#E6F1F9;
+	background-image:url('../images/ets_logo_96x96.png') !important;
+	background-repeat:no-repeat;
+	background-position: left 0px top -22px;
+}
+
+.banner-yazi {
+	background:#E6F1F9;
+	background-repeat:no-repeat;
+	background-position: right;
+	color: #666666;
+    font-family: helvetica,arial,verdana,sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.banner-doktorala {
+	background:#E6F1F9;
+	background-image:url('../images/doktoralalogo.png') !important;
+	background-repeat:no-repeat;
+	background-position: right;
+}

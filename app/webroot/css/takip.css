@@ -1,0 +1,19 @@
+.banner { 
+	background:#E6F1F9;
+	width: 100px;
+	background-image:url('../img/ets_logo_96x96.png') !important;
+	background-repeat:no-repeat;
+	background-position: left 0px top -22px;
+}
+
+.banner-yazi {
+	color: #666666;
+    font-family: helvetica,arial,verdana,sans-serif;
+    font-weight: bold;
+    vertical-align: middle; 
+    line-height: 50px; 
+    height:50px;
+    width: 100%;
+    font-size: 22px;
+    padding:0px 0px 0px 100px; float: left;
+}

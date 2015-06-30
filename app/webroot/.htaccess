@@ -1,0 +1,10 @@
+# To set your custom php.ini, add the following line to this file:
+# suphp_configpath /home/yourusername/path/to/php.ini
+# php_value mbstring.func_overload 4 # Required for PWSB support. Please do not uncomment this line.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /takip1/app/webroot/
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
+</IfModule>
